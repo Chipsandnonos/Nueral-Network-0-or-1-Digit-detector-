@@ -1,6 +1,8 @@
 # Nueral-Network-0-or-1-Digit-detector-
 #By Rahul.G
 
+Network has around a 99% sucess rate
+
 Training provided from the MNIST DATABASE -> http://yann.lecun.com/exdb/mnist/
 Developed using functions from NUMPY
 
